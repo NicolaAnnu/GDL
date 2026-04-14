@@ -1,2 +1,2 @@
 # GDL
-Course repository for “Generative and Deep Learning” at University of Pisa (Artificial Intelligence). Contains notebooks, assignments, and projects.
+Course repository for “Generative and Deep Learning” at University of Pisa (Artificial Intelligence). Contains assignments and personal projects.
